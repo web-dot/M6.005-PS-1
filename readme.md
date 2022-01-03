@@ -61,5 +61,4 @@ You can change your code and rerun the autograder as often as you want. You have
 
 ## Course Staff
 ## Rob MIller
-Rob Miller
 Professor, Computer Science MIT
